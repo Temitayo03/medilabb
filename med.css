@@ -1,0 +1,35 @@
+.imgcut{height: 0; padding-bottom: 43%; overflow: hidden;}
+nav{background-color:white;}
+h1{font-size: 100px; color: #193167}
+h2{color: #193167}
+h3{color: #193167}
+#home p{font-size: 20px}
+#pic1{position: relative;}
+#pic2{margin-right: 50px}
+#this1 {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+  text-align: left;
+  font-size: 18px;
+}
+.btn{border-radius: 20px;}
+#this2{padding-top:100px; padding-bottom: 100px }
+.x1{margin-left: 20px; margin-right: 20px;}
+.space{margin-top: 20px}
+.space p {padding: 20px}
+#about2{background-color: #e6e6ff; padding-top: 50px; padding-bottom: 50px}
+#services{text-align: center; padding-top: 50px}
+#makapp{text-align: center; padding-top: 50px}
+.x4{width: 335px; margin-right: 10px; margin-left: 10px}
+
+input{padding: 10px}
+.form2{margin-top: 20px}
+#msg{width: 1085px; height: 200px;  margin-left: 0px}
+.things{width :400px}
+#doctors{text-align: center; padding-top: 50px}
+#FAQ{text-align: center; padding-top: 50px; padding-bottom: 50px; margin-bottom: 30px; background-color: #e6e6ff;}
+#departments{text-align: center; padding-top: 50px}
+#accordion{text-align: left;}
+#footer{background-color: #e6e6ff;}
+.yo{padding-top: 50px}
